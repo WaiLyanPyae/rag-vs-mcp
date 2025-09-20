@@ -1,10 +1,7 @@
-Got it ✅ — here’s your `README.md` rewritten in **clean, proper Markdown format** with headings, code blocks, and tables styled neatly.
-
----
 
 # 📡 RAG + MCP News Classifier & Alert System
 
-> A dissertation project exploring **real-time news classification, RAG-enhanced summarization, and MCP-inspired decision logic**.
+> A project exploring **real-time news classification, RAG-enhanced summarization, and MCP-inspired decision logic**.
 
 ---
 
